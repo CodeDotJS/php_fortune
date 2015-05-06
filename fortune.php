@@ -1,6 +1,6 @@
 <?php
 
-$filename = "random.txt";
+$filename = "fortune.txt";
 
 $file = file($filename);
 
