@@ -1,22 +1,11 @@
-# php_fortune
-linux fortune in php
+# Fortune PHP
 
-- What fortune do in linux ?
+> PHP version for Fortune available in linux
 
-- Everytime you type "fortune" in terminal it print a random, hopefully interesting, adage
+## Work
 
-- - - - - - - - - - -
+> Show different quotes when you reaload the page.
 
-- What fortune.php will do in web browser ?
+## License
 
-- Everytime you refresh the page, it will print a randowm, hopefully interesting, adage
-
-- - - - - - - - - - -
-
-- Download the code
-
-- Extract it
-
-- host it using your local server.
-
-
+LOL &copy; 20n0
